@@ -13,7 +13,7 @@ import org.neuroph.nnet.learning.BackPropagation;
 import org.neuroph.nnet.learning.MomentumBackpropagation;
 import org.neuroph.util.TransferFunctionType;
 // </editor-fold>  
-
+//git test 
 public class NnXORtestUI extends javax.swing.JDialog
         implements LearningEventListener {
 
